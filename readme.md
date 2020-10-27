@@ -39,7 +39,7 @@ Below shows, Agent B, predicting coordinate (x1, y1) - (200, 600) from its prese
 Clone the work and run the main.py file using the following commands below
 
 ``` 
-git clone https://github.com/elishatofunmi/ReinEnv/tree/main/pytennis
+git clone https://github.com/elishatofunmi/pytennis.git
 
 pip install -r requirement.txt
 
