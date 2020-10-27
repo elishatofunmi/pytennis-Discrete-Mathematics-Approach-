@@ -41,9 +41,9 @@ Clone the work and run the main.py file using the following commands below
 ``` 
 git clone https://github.com/elishatofunmi/pytennis.git
 
-pip install -r requirement.txt
-
 cd pytennis
+
+pip install -r requirement.txt
 
 python main.py
 
