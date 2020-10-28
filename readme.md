@@ -46,7 +46,7 @@ cd pytennis
 
 pip install -r requirement.txt
 
-# go ahead to run game.ipynb cell by cell
+# go ahead to run game.ipynb cell by cell via jupyter notebook/ jupyterlab
 
 ```
 
