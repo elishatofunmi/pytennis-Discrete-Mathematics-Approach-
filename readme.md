@@ -36,7 +36,7 @@ Below shows, Agent B, predicting coordinate (x1, y1) - (200, 600) from its prese
 ### To run program follow the process below:
 
 
-Clone the work and run the game.ipynb via jupyter notebook having executed the following commands below
+To clone the work and run the game.ipynb via jupyter notebook having executed the following commands below
 
 
 ``` 
@@ -52,7 +52,7 @@ pip install -r requirement.txt
 
 
 
-Clone the work and run the main.py file using the following commands below
+To clone the work and run the main.py file using the following commands below
 
 ``` 
 git clone https://github.com/elishatofunmi/pytennis.git
