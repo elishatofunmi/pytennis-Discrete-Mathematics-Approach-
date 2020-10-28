@@ -2,7 +2,7 @@ import time
 import numpy as np
 import pygame
 import sys
-import seaborn as sns
+#import seaborn as sns
 
 from pygame.locals import *
 pygame.init()
@@ -29,7 +29,6 @@ class Network:
         For Network A
         ysource: will always be 100
         xsource: will always be between xmin and xmax (static discipline)
-
         For Network B
         ysource: will always be 600
         xsource: will always be between xmin and xmax (static discipline)
@@ -91,10 +90,10 @@ NetworkB = net.network(200, ysource=600, Ynew=100)  # Network B
 # NetworkA
 
 # display test plot of network A
-sns.jointplot(NetworkA[0], NetworkA[1])
+# sns.jointplot(NetworkA[0], NetworkA[1])
 
 # display test plot of network B
-sns.jointplot(NetworkB[0], NetworkB[1])
+# sns.jointplot(NetworkB[0], NetworkB[1])
 
 
 DefaultPositionA = 300
@@ -127,7 +126,7 @@ out = DefaultToPosition(250)
 
 pygame.init()
 
-FPS = 30
+FPS = 50
 fpsClock = pygame.time.Clock()
 
 # set up the window
@@ -255,7 +254,6 @@ def main():
             if event.type == QUIT:
                 pygame.quit()
                 sys.exit()
-        return
 
 
 if __name__ == "__main__":
