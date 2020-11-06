@@ -6,7 +6,9 @@
 ![gif](images/ezgif.com-video-to-gif.gif)
 
 
-### Pytennis Environmental Description
+### Pytennis Environment Description
+
+```
 
 1. There exist 2 agents (2 players) with a ball.
 
@@ -20,6 +22,7 @@
 
 6. Movement of the ball is bounded along the x-axis (x1 = 100, to x2 = 600).
 
+```
 
  [Watch on youtube here](https://youtu.be/iUYxZ2tYKHw)
 
