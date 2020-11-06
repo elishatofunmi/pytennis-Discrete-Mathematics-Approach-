@@ -14,7 +14,9 @@
 
 2. There exist a tennis lawn of dimension (x, y) - (300, 500)
 
-3. The ball was designed to move on a straight line, such that agent A decides a target point between x1 (0) and x2 (300) of side B (Agent B side), therefore it displays the ball 50 different times with respect to an FPS of 20. This therefore, makes the ball move in a straight line from source to destination. This applies respectively to agent B.
+3. The ball was designed to move on a straight line, such that agent A decides a target point between x1 (0) and x2 (300) of side B (Agent B side), 
+therefore it displays the ball 50 different times with respect to an FPS of 20. This therefore, makes the ball move in a straight line from source 
+to destination. This applies respectively to agent B.
 
 4. Movement of AgentA and AgentB are both bound between (x1= 100, to x2 = 600).
 
