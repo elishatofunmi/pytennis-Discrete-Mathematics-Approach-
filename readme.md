@@ -26,7 +26,9 @@ to destination. This applies respectively to agent B.
 
 ```
 
- [Watch on youtube here](https://youtu.be/iUYxZ2tYKHw)
+
+[![Watch on youtube](https://img.youtube.com/vi/iUYxZ2tYKHw/hqdefault.jpg)](https://youtu.be/iUYxZ2tYKHw)
+
 
 
 ## Playing the Game
